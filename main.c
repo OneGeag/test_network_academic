@@ -7,10 +7,9 @@
 int
 main(int argc, char *argv[])
 {
-	static const char *hello_message = "Hello, World!";
+	static const char *hello_message = "Hello, World!" " concat";
 
 	printf("%s\n", hello_message);
-	printf("%s\n", hello_message " concat");
 
 	return 0;
 }
