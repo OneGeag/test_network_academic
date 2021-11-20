@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
+
+#define PROGRAMM_NAME "test"
 
 int
 main(int argc, char *argv[])
