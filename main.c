@@ -4,7 +4,6 @@
 
 #define PROGRAMM_NAME "test"
 
-
 int
 main(int argc, char *argv[])
 {
